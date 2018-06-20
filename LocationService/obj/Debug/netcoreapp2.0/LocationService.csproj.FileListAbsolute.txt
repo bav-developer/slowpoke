@@ -1,0 +1,12 @@
+C:\Users\abiaspalau\source\repos\SlowpokeBackend\LocationService\obj\Debug\netcoreapp2.0\LocationService.csprojResolveAssemblyReference.cache
+C:\Users\abiaspalau\source\repos\SlowpokeBackend\LocationService\obj\Debug\netcoreapp2.0\LocationService.csproj.CoreCompileInputs.cache
+C:\Users\abiaspalau\source\repos\SlowpokeBackend\LocationService\obj\Debug\netcoreapp2.0\LocationService.AssemblyInfoInputs.cache
+C:\Users\abiaspalau\source\repos\SlowpokeBackend\LocationService\obj\Debug\netcoreapp2.0\LocationService.AssemblyInfo.cs
+C:\Users\abiaspalau\source\repos\SlowpokeBackend\LocationService\bin\Debug\netcoreapp2.0\LocationService.deps.json
+C:\Users\abiaspalau\source\repos\SlowpokeBackend\LocationService\bin\Debug\netcoreapp2.0\LocationService.dll
+C:\Users\abiaspalau\source\repos\SlowpokeBackend\LocationService\bin\Debug\netcoreapp2.0\LocationService.pdb
+C:\Users\abiaspalau\source\repos\SlowpokeBackend\LocationService\bin\Debug\netcoreapp2.0\Database.dll
+C:\Users\abiaspalau\source\repos\SlowpokeBackend\LocationService\bin\Debug\netcoreapp2.0\Database.pdb
+C:\Users\abiaspalau\source\repos\SlowpokeBackend\LocationService\obj\Debug\netcoreapp2.0\LocationService.csproj.CopyComplete
+C:\Users\abiaspalau\source\repos\SlowpokeBackend\LocationService\obj\Debug\netcoreapp2.0\LocationService.dll
+C:\Users\abiaspalau\source\repos\SlowpokeBackend\LocationService\obj\Debug\netcoreapp2.0\LocationService.pdb

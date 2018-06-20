@@ -1,0 +1,9 @@
+C:\Users\abiaspalau\source\repos\SlowpokeBackend\Database\bin\Debug\netcoreapp2.0\Database.deps.json
+C:\Users\abiaspalau\source\repos\SlowpokeBackend\Database\bin\Debug\netcoreapp2.0\Database.dll
+C:\Users\abiaspalau\source\repos\SlowpokeBackend\Database\obj\Debug\netcoreapp2.0\Database.csprojResolveAssemblyReference.cache
+C:\Users\abiaspalau\source\repos\SlowpokeBackend\Database\obj\Debug\netcoreapp2.0\Database.csproj.CoreCompileInputs.cache
+C:\Users\abiaspalau\source\repos\SlowpokeBackend\Database\obj\Debug\netcoreapp2.0\Database.AssemblyInfoInputs.cache
+C:\Users\abiaspalau\source\repos\SlowpokeBackend\Database\obj\Debug\netcoreapp2.0\Database.AssemblyInfo.cs
+C:\Users\abiaspalau\source\repos\SlowpokeBackend\Database\bin\Debug\netcoreapp2.0\Database.pdb
+C:\Users\abiaspalau\source\repos\SlowpokeBackend\Database\obj\Debug\netcoreapp2.0\Database.dll
+C:\Users\abiaspalau\source\repos\SlowpokeBackend\Database\obj\Debug\netcoreapp2.0\Database.pdb

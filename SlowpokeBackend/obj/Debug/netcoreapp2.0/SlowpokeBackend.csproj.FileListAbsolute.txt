@@ -1,0 +1,16 @@
+C:\Users\abiaspalau\source\repos\SlowpokeBackend\SlowpokeBackend\bin\Debug\netcoreapp2.0\SlowpokeBackend.deps.json
+C:\Users\abiaspalau\source\repos\SlowpokeBackend\SlowpokeBackend\bin\Debug\netcoreapp2.0\SlowpokeBackend.runtimeconfig.json
+C:\Users\abiaspalau\source\repos\SlowpokeBackend\SlowpokeBackend\bin\Debug\netcoreapp2.0\SlowpokeBackend.runtimeconfig.dev.json
+C:\Users\abiaspalau\source\repos\SlowpokeBackend\SlowpokeBackend\bin\Debug\netcoreapp2.0\SlowpokeBackend.dll
+C:\Users\abiaspalau\source\repos\SlowpokeBackend\SlowpokeBackend\bin\Debug\netcoreapp2.0\SlowpokeBackend.pdb
+C:\Users\abiaspalau\source\repos\SlowpokeBackend\SlowpokeBackend\obj\Debug\netcoreapp2.0\SlowpokeBackend.csprojResolveAssemblyReference.cache
+C:\Users\abiaspalau\source\repos\SlowpokeBackend\SlowpokeBackend\obj\Debug\netcoreapp2.0\SlowpokeBackend.csproj.CoreCompileInputs.cache
+C:\Users\abiaspalau\source\repos\SlowpokeBackend\SlowpokeBackend\obj\Debug\netcoreapp2.0\SlowpokeBackend.AssemblyInfoInputs.cache
+C:\Users\abiaspalau\source\repos\SlowpokeBackend\SlowpokeBackend\obj\Debug\netcoreapp2.0\SlowpokeBackend.AssemblyInfo.cs
+C:\Users\abiaspalau\source\repos\SlowpokeBackend\SlowpokeBackend\obj\Debug\netcoreapp2.0\SlowpokeBackend.dll
+C:\Users\abiaspalau\source\repos\SlowpokeBackend\SlowpokeBackend\obj\Debug\netcoreapp2.0\SlowpokeBackend.pdb
+C:\Users\abiaspalau\source\repos\SlowpokeBackend\SlowpokeBackend\bin\Debug\netcoreapp2.0\Database.dll
+C:\Users\abiaspalau\source\repos\SlowpokeBackend\SlowpokeBackend\bin\Debug\netcoreapp2.0\Database.pdb
+C:\Users\abiaspalau\source\repos\SlowpokeBackend\SlowpokeBackend\obj\Debug\netcoreapp2.0\SlowpokeBackend.csproj.CopyComplete
+C:\Users\abiaspalau\source\repos\SlowpokeBackend\SlowpokeBackend\bin\Debug\netcoreapp2.0\LocationService.dll
+C:\Users\abiaspalau\source\repos\SlowpokeBackend\SlowpokeBackend\bin\Debug\netcoreapp2.0\LocationService.pdb
